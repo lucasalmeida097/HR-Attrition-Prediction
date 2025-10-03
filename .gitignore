@@ -1,2 +1,4 @@
 README.md
-
+.venv
+.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/

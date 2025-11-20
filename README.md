@@ -64,7 +64,7 @@ hr-attrition-prediction/
 ├── Dockerfile               # Configuração para containerização
 └── requirements.txt         # Lista de dependências Python
 
-```
+``
 ---
 
 ## 📈 Metodologia de Modelagem e Avaliação

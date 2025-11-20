@@ -42,6 +42,7 @@ A solução é construída com a *stack* Python, focada em performance e **escal
 
 A arquitetura segue o princípio de separação de responsabilidades (*Separation of Concerns*) e facilita a manutenção e o *deployment*.
 
+``text
 hr-attrition-prediction/
 │
 ├── data/
@@ -62,6 +63,8 @@ hr-attrition-prediction/
 ├── frontend/                # Futura interface (Streamlit)
 ├── Dockerfile               # Configuração para containerização
 └── requirements.txt         # Lista de dependências Python
+
+```
 ---
 
 ## 📈 Metodologia de Modelagem e Avaliação

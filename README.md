@@ -1,4 +1,4 @@
-# 📊 HR Attrition Prediction – Data Science & Business Intelligence
+# 📊 HR Attrition Prediction
 
 ## 🔎 Contexto do Problema e Motivação de Negócios
 
